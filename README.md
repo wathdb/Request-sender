@@ -1,30 +1,30 @@
 # RSender - V1.0.0  
 
-RSender est une application Python avec une interface graphique permettant d'envoyer facilement des requêtes HTTP (GET et POST).  
+RSender is a Python application with a graphical interface that allows you to easily send HTTP requests (GET and POST).  
 
-## 📌 Fonctionnalités  
-- Saisie d'une URL  
-- Choix entre une requête **GET** ou **POST**  
-- Configuration des **headers** et des **données** en JSON  
-- Interface simple et intuitive  
+## 📌 Features  
+- Enter a URL  
+- Choose between **GET** or **POST** requests  
+- Configure **headers** and **data** in JSON  
+- Simple and intuitive interface  
 
 ## 🚀 Installation  
-1. **Installer les dépendances** :  
+1. **Install dependencies**:  
    ```bash
    pip install requests
    ```  
-2. **Lancer le programme** :  
+2. **Run the program**:  
    ```bash
    python script.py
    ```  
 
-## 🖥️ Utilisation  
-1. Entrer une URL  
-2. Cocher **GET** ou **POST**  
-3. Configurer les **données** et **headers** (bouton "Configure Data/Headers")  
-4. Cliquer sur **Send** pour envoyer la requête  
+## 🖥️ Usage  
+1. Enter a URL  
+2. Select **GET** or **POST**  
+3. Configure **data** and **headers** (click "Configure Data/Headers")  
+4. Click **Send** to send the request  
 
 ## 📌 Technologies  
 - **Python 3**  
-- **Tkinter** (Interface graphique)  
-- **Requests** (Envoi des requêtes HTTP)  
+- **Tkinter** (Graphical interface)  
+- **Requests** (Sending HTTP requests)  
